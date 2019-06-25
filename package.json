@@ -8,7 +8,7 @@
     "blue",
     "syntax"
   ],
-  "repository": "https://github.com/atom/atom",
+  "repository": "https://github.com/mnelson94/mnd-dark-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
